@@ -1,8 +1,10 @@
 # hashGn
 *hash Generator*
-pkg install git 
-pkg install python2
-git clone https://github.com/happyfunea/hashGn
-cd hashGn
-python2 hash.py
-# Enjoy Tinggal Make
+# Tinggal Make
+#
+# Sory Kalo Bahasa Inggris nya ga jelas:v
+# Maklum Jawa Only:'v
+
+
+
+
