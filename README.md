@@ -1,0 +1,2 @@
+# hashGn
+Hash Generator
